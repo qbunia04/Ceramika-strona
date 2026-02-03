@@ -223,7 +223,7 @@ export default function Home() {
               </div>
 
               <p className="text-center text-sm text-muted-foreground italic">
-                Najlepiej dzwonić w godzinach popołudniowych (14:00 - 18:00)
+                Najlepiej dzwonić w godzinach popołudniowych (12:00 - 18:00)
               </p>
             </div>
           </div>
